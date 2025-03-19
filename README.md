@@ -1,4 +1,6 @@
 # Interview Prep Chatbot
+The app is deployed on the Streamlit community at [https://interviewchatbotprototype.streamlit.app/](https://interviewchatbotprototype.streamlit.app/).
+
 
 This project is a prototype for an **Interview Prep Chatbot** built with **Streamlit** and **OpenAI's GPT-4**. The chatbot assists users in preparing for interviews by simulating an interview environment and providing feedback after the interview is completed.
 
